@@ -3,9 +3,8 @@ package oop.modifier.accessmodifier.attributemodifier;
 public class DefaultAttribute {
 
     /*
-    Modifier	Description
-    default	    The code is only accessible in the same package.
-                This is used when you don't specify a modifier.
+    Modifier    Description
+    default     The code is only accessible in the same package. This is used when you don't specify a modifier.
      */
     String firstName = "John";
     String lastName = "Doe";
