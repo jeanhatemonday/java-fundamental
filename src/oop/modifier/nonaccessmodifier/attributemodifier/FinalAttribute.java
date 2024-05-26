@@ -3,8 +3,8 @@ package oop.modifier.nonaccessmodifier.attributemodifier;
 public class FinalAttribute {
 
     /*
-    If you don't want the ability to override existing attribute values,
-    declare attributes as final:
+    Modifier    Description
+    final       Attributes cannot be overridden/modified
      */
     final int x = 10;
     final double PI = 3.14;
