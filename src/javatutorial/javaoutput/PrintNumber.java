@@ -1,4 +1,4 @@
-package output;
+package javatutorial.javaoutput;
 
 public class PrintNumber {
 
