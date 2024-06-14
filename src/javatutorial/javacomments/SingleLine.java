@@ -1,4 +1,4 @@
-package comment;
+package javatutorial.javacomments;
 
 public class SingleLine {
 
