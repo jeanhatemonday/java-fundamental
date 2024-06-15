@@ -1,4 +1,4 @@
-package javatutorial.javaoutput;
+package net.hatemonday.javafundamental.javatutorial.javaoutput;
 
 public class PrintNumber {
 
