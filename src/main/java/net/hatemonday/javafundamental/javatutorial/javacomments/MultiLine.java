@@ -1,4 +1,4 @@
-package javatutorial.javacomments;
+package net.hatemonday.javafundamental.javatutorial.javacomments;
 
 public class MultiLine {
 
