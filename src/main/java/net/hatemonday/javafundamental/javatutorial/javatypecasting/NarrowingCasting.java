@@ -1,4 +1,4 @@
-package typecasting;
+package net.hatemonday.javafundamental.javatutorial.javatypecasting;
 
 public class NarrowingCasting {
 
