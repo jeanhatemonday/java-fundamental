@@ -1,4 +1,4 @@
-package datatype;
+package net.hatemonday.javafundamental.javatutorial.javadatatypes;
 
 public class PrimitiveData {
 
