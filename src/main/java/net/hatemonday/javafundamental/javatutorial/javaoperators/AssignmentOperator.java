@@ -1,4 +1,4 @@
-package operator;
+package net.hatemonday.javafundamental.javatutorial.javaoperators;
 
 public class AssignmentOperator {
 
