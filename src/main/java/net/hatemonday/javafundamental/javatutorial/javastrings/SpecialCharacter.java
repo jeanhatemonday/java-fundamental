@@ -1,4 +1,4 @@
-package string;
+package net.hatemonday.javafundamental.javatutorial.javastrings;
 
 public class SpecialCharacter {
 
