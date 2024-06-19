@@ -1,4 +1,4 @@
-package math;
+package net.hatemonday.javafundamental.javatutorial.javamath;
 
 public class Method {
 
