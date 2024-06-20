@@ -3,7 +3,7 @@ package net.hatemonday.javafundamental.javatutorial.javaifelse;
 public class TernaryOperator {
 
     public static void main(String[] args) {
-        int time = 20;
+        int time = 20; 
         String result = (time < 18) ? "Good day." : "Good evening.";
         System.out.println(result);
     }
