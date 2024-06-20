@@ -1,9 +1,10 @@
-package switchcase;
+package net.hatemonday.javafundamental.javatutorial.switchcase;
 
 public class SwitchStatement {
 
     public static void main(String[] args) {
         int day = 4;
+
         switch (day) {
             case 1:
                 System.out.println("Monday");
