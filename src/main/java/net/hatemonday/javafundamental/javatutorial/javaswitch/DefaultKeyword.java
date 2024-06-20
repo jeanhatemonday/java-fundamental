@@ -1,4 +1,4 @@
-package net.hatemonday.javafundamental.javatutorial.switchcase;
+package net.hatemonday.javafundamental.javatutorial.javaswitch;
 
 public class DefaultKeyword {
 
