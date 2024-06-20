@@ -1,4 +1,4 @@
-package ifelse;
+package net.hatemonday.javafundamental.javatutorial.javaifelse;
 
 public class TernaryOperator {
 
