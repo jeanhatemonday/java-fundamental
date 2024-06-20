@@ -1,9 +1,10 @@
-package switchcase;
+package net.hatemonday.javafundamental.javatutorial.switchcase;
 
 public class DefaultKeyword {
 
     public static void main(String[] args) {
         int day = 4;
+
         switch (day) {
             case 6:
                 System.out.println("Today is Saturday");
