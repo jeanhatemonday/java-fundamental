@@ -1,14 +1,15 @@
-package ifelse;
+package net.hatemonday.javafundamental.javatutorial.javaifelse;
 
 public class Statement {
 
     public static void main(String[] args) {
         int time = 22;
+
         if (time < 10) {
             System.out.println("Good morning.");
         } else if (time < 18) {
             System.out.println("Good day.");
-        }  else {
+        } else {
             System.out.println("Good evening.");
         }
     }
