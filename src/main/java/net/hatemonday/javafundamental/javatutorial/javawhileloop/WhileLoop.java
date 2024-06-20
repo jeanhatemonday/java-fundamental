@@ -1,13 +1,13 @@
-package whileloop;
+package net.hatemonday.javafundamental.javatutorial.javawhileloop;
 
-public class DoWhileLoop {
+public class WhileLoop {
 
     public static void main(String[] args) {
         int i = 0;
-        do {
+
+        while (i < 5) {
             System.out.println(i);
             i++;
         }
-        while (i < 5);
     }
 }
