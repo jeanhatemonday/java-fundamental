@@ -1,4 +1,4 @@
-package booleans;
+package net.hatemonday.javafundamental.javatutorial.javabooleans;
 
 public class Value {
 
