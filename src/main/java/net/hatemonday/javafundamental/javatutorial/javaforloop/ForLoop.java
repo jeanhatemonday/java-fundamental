@@ -1,4 +1,4 @@
-package forloop;
+package net.hatemonday.javafundamental.javatutorial.javaforloop;
 
 public class ForLoop {
 
