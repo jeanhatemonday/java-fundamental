@@ -1,4 +1,4 @@
-package method;
+package net.hatemonday.javafundamental.javamethods.javamethods;
 
 public class CallMethod {
 
