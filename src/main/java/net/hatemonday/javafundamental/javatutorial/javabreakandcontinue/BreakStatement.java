@@ -1,4 +1,4 @@
-package breakcontinue;
+package net.hatemonday.javafundamental.javatutorial.javabreakandcontinue;
 
 public class BreakStatement {
 
