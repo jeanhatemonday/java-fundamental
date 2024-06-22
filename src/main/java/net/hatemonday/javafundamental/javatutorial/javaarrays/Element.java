@@ -1,4 +1,4 @@
-package array;
+package net.hatemonday.javafundamental.javatutorial.javaarrays;
 
 public class Element {
 
