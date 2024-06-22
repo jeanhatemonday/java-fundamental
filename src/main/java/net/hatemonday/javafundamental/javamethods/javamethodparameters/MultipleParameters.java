@@ -1,4 +1,4 @@
-package parameter;
+package net.hatemonday.javafundamental.javamethods.javamethodparameters;
 
 public class MultipleParameters {
 
