@@ -1,4 +1,4 @@
-package overloading;
+package net.hatemonday.javafundamental.javamethods.javamethodoverloading;
 
 public class Method {
 
