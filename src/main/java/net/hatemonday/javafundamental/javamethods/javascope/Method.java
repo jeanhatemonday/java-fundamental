@@ -1,4 +1,4 @@
-package scope;
+package net.hatemonday.javafundamental.javamethods.javascope;
 
 public class Method {
 
