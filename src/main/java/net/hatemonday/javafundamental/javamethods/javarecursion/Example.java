@@ -1,4 +1,4 @@
-package recursion;
+package net.hatemonday.javafundamental.javamethods.javarecursion;
 
 public class Example {
 
