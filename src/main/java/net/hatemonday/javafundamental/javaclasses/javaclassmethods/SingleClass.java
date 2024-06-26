@@ -1,19 +1,17 @@
-package oop;
+package net.hatemonday.javafundamental.javaclasses.javaclassmethods;
 
-public class ClassMethod {
+public class SingleClass {
 
-    // Create a fullThrottle() method
     public void fullThrottle() {
         System.out.println("The car is going as fast as it can!");
     }
 
-    // Create a speed() method and add a parameter
     public void speed(int maxSpeed) {
         System.out.println("Max speed is: " + maxSpeed);
     }
 
     public static void main(String[] args) {
-        ClassMethod myCar = new ClassMethod();
+        SingleClass myCar = new SingleClass();
         myCar.fullThrottle();
         myCar.speed(200);
     }
