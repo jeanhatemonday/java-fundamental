@@ -1,4 +1,4 @@
-package oop.modifier.accessmodifier.attributemodifier.protectedattribute;
+package net.hatemonday.javafundamental.javaclasses.javamodifiers.accessmodifiers.attributesmodifier.protectedattribute;
 
 public class Person {
 

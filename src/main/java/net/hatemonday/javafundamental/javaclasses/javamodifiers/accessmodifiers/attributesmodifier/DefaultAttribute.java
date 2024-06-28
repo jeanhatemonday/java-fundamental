@@ -1,4 +1,4 @@
-package oop.modifier.accessmodifier.attributemodifier;
+package net.hatemonday.javafundamental.javaclasses.javamodifiers.accessmodifiers.attributesmodifier;
 
 public class DefaultAttribute {
 
