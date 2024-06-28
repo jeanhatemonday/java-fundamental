@@ -3,8 +3,8 @@ package net.hatemonday.javafundamental.javaclasses.javamodifiers.accessmodifiers
 public class PrivateAttribute {
 
     /*
-    Modifier	Description
-    private	    The code is only accessible within the declared class
+    Modifier    Description
+    private     The code is only accessible within the declared class
      */
     private String firstName = "John";
     private String lastName = "Doe";
