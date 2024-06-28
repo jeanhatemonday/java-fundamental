@@ -1,4 +1,4 @@
-package oop.modifier.accessmodifier.classmodifier;
+package net.hatemonday.javafundamental.javaclasses.javamodifiers.accessmodifiers.classesmodifier;
 
 public class PublicClass {
 
