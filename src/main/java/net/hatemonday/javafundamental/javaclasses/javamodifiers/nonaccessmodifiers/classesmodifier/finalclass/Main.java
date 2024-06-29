@@ -1,4 +1,4 @@
-// package oop.modifier.nonaccessmodifier.classmodifier.finalclass;
+// package net.hatemonday.javafundamental.javaclasses.javamodifiers.nonaccessmodifiers.classesmodifier.finalclass;
 //
 // public class Main extends Vehicle {
 //
@@ -6,7 +6,6 @@
 //     Modifier    Description
 //     final       The class cannot be inherited by other classes
 //      */
-//
 //     private String modelName = "Mustang";
 //
 //     public static void main(String[] args) {

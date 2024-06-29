@@ -1,4 +1,4 @@
-package oop.modifier.nonaccessmodifier.methodmodifier;
+package net.hatemonday.javafundamental.javaclasses.javamodifiers.nonaccessmodifiers.methodsmodifier;
 
 public class StaticMethod {
 

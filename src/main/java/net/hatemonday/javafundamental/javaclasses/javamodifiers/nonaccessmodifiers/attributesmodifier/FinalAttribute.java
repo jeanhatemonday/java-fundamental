@@ -1,4 +1,4 @@
-// package oop.modifier.nonaccessmodifier.attributemodifier;
+// package net.hatemonday.javafundamental.javaclasses.javamodifiers.nonaccessmodifiers.attributesmodifier;
 //
 // public class FinalAttribute {
 //
