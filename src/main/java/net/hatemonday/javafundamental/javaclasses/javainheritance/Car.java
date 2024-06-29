@@ -1,4 +1,4 @@
-package oop.inheritance;
+package net.hatemonday.javafundamental.javaclasses.javainheritance;
 
 public class Car extends Vehicle {
 
