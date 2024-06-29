@@ -1,4 +1,4 @@
-package oop.modifier.nonaccessmodifier.methodmodifier.abstractmethod;
+package net.hatemonday.javafundamental.javaclasses.javamodifiers.nonaccessmodifiers.methodsmodifier.abstractmethod;
 
 public class Student extends Main {
 
