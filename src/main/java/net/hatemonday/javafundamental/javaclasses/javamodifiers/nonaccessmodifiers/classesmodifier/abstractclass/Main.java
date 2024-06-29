@@ -1,4 +1,4 @@
-package oop.modifier.nonaccessmodifier.classmodifier.abstractclass;
+package net.hatemonday.javafundamental.javaclasses.javamodifiers.nonaccessmodifiers.classesmodifier.abstractclass;
 
 public class Main {
 
