@@ -1,4 +1,4 @@
-package oop.modifier.nonaccessmodifier.classmodifier.finalclass;
+package net.hatemonday.javafundamental.javaclasses.javamodifiers.nonaccessmodifiers.classesmodifier.finalclass;
 
 final class Vehicle {
 
