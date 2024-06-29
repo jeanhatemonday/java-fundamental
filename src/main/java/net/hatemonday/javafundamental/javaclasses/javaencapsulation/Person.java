@@ -1,4 +1,4 @@
-package oop.encapsulation;
+package net.hatemonday.javafundamental.javaclasses.javaencapsulation;
 
 public class Person {
 
