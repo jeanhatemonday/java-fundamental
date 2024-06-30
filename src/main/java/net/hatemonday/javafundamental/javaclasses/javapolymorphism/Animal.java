@@ -1,4 +1,4 @@
-package oop.polymorphism;
+package net.hatemonday.javafundamental.javaclasses.javapolymorphism;
 
 public class Animal {
 
