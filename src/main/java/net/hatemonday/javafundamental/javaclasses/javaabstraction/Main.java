@@ -1,4 +1,4 @@
-package oop.abstraction;
+package net.hatemonday.javafundamental.javaclasses.javaabstraction;
 
 public class Main {
 
