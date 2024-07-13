@@ -1,4 +1,4 @@
-package oop.enumconstant.insideclass;
+package net.hatemonday.javafundamental.javaclasses.javaenums.enuminsideaclass;
 
 public class Main {
 
