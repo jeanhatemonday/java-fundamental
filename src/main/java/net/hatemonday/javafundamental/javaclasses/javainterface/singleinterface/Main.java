@@ -1,4 +1,4 @@
-package oop.interfacemethod.example;
+package net.hatemonday.javafundamental.javaclasses.javainterface.singleinterface;
 
 public class Main {
 
