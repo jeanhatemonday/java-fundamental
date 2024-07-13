@@ -1,4 +1,4 @@
-package oop.enumconstant.specialclass;
+package net.hatemonday.javafundamental.javaclasses.javaenums.enums;
 
 public class Main {
 
