@@ -1,4 +1,4 @@
-package oop.enumconstant.switchstatement;
+package net.hatemonday.javafundamental.javaclasses.javaenums.enuminaswitchstatement;
 
 public class Main {
 

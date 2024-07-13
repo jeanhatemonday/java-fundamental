@@ -1,6 +1,12 @@
-package oop.enumconstant.specialclass;
+package net.hatemonday.javafundamental.javaclasses.javaenums.enuminsideaclass;
 
 public class Main {
+
+    enum Level {
+        LOW,
+        MEDIUM,
+        HIGH
+    }
 
     public static void main(String[] args) {
         Level myVar = Level.MEDIUM;
