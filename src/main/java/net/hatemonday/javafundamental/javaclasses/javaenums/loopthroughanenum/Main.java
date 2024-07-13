@@ -1,4 +1,4 @@
-package oop.enumconstant.loopthrough;
+package net.hatemonday.javafundamental.javaclasses.javaenums.loopthroughanenum;
 
 public class Main {
 
