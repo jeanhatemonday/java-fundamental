@@ -11,5 +11,6 @@ public class AccessAnItem {
         capitalCities.put("Norway", "Oslo");
         capitalCities.put("USA", "Washington DC");
         System.out.println(capitalCities.get("England"));
+        
     }
 }
