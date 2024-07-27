@@ -25,6 +25,5 @@ public class LoopThroughAHashMap {
         for (String i : capitalCities.keySet()) {
             System.out.println("key: " + i + " value: " + capitalCities.get(i));
         }
-        
     }
 }
