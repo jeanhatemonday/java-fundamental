@@ -12,6 +12,5 @@ public class RemoveAllItem {
         capitalCities.put("USA", "Washington DC");
         capitalCities.clear();
         System.out.println(capitalCities);
-        
     }
 }
