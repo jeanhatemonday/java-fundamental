@@ -13,6 +13,5 @@ public class OtherType {
         for (String i : people.keySet()) {
             System.out.println("Name: " + i + " Age: " + people.get(i));
         }
-        
     }
 }
