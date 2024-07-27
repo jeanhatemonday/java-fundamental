@@ -11,5 +11,6 @@ public class AddItem {
         capitalCities.put("Norway", "Oslo");
         capitalCities.put("USA", "Washington DC");
         System.out.println(capitalCities);
+        
     }
 }
